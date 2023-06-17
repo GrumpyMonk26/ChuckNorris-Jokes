@@ -17,4 +17,4 @@
 
 ##### Note: This app utilizes the Chuck Norris Jokes API to provide the jokes. The jokes and content are sourced from the API, and the app developers are not responsible for their creation or accuracy.
 
-###### Live preview
+###### Live preview - https://gm-chucknorris-jokes.netlify.app/
